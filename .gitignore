@@ -1,0 +1,19 @@
+# Thư mục môi trường ảo
+myenv/
+
+# Các tệp Python bytecode
+*.pyc
+*.pyo
+
+# Tệp cấu hình của IDE (VSCode, PyCharm, ...)
+.vscode/
+.idea/
+
+# Thư mục cài đặt của pip
+__pycache__/
+
+# Tệp log
+*.log
+
+# Thư mục dữ liệu tạm thời
+tmp/
